@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ggasym"]
+	path = ggasym
+	url = https://github.com/jhrcook/ggasym
+	shallow = true
+	registered = true
+[submodule "mustashe"]
+	path = mustashe
+	url = https://github.com/jhrcook/mustashe
+	shallow = true
+	registered = true
